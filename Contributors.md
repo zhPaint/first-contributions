@@ -3842,3 +3842,5 @@
 - [Budi Erwanto](https://github.com/sariroti)
 - [Timothy Yuen](https://github.com/tyuen11)
 - [Mohammed Haris](https://github.com/tonystaa)
+- [Rufor Chen] (https://github.com/zhPaint)
+
